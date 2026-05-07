@@ -1,0 +1,23 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "command": "echo SESSION START"
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "*",
+        
+        "command": "exit 0"
+      }
+    ],
+     "PostToolUse": [
+      {
+        "matcher": "*",
+        "command": "echo POST: $HOOK_TOOL_NAME && echo OUTPUT: $HOOK_TOOL_OUTPUT"
+      }
+    ]
+  }
+}

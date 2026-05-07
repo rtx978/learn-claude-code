@@ -1,0 +1,9 @@
+{
+  "request_id": "b8c8be05",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "CPlusPlusAgent",
+  "status": "pending",
+  "created_at": 1778069329.5770438,
+  "updated_at": 1778069329.5770438
+}

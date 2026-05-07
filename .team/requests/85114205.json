@@ -1,0 +1,9 @@
+{
+  "request_id": "85114205",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "RudeAgent",
+  "status": "pending",
+  "created_at": 1778070317.886684,
+  "updated_at": 1778070317.886684
+}

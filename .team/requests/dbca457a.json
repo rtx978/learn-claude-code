@@ -1,0 +1,9 @@
+{
+  "request_id": "dbca457a",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "JavaAgent",
+  "status": "pending",
+  "created_at": 1778071610.866306,
+  "updated_at": 1778071610.866306
+}

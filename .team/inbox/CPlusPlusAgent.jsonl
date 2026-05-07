@@ -1,0 +1,8 @@
+{"type": "message", "from": "lead", "content": "\u8bf7\u751f\u6210\u4e00\u4e2a\u4f7f\u7528\u4f18\u5148\u961f\u5217\u5b9e\u73b0\u7684Dijkstra\u6700\u77ed\u8def\u5f84\u7b97\u6cd5\u6a21\u677f\uff0c\u8981\u6c42\uff1a1. \u4f7f\u7528\u90bb\u63a5\u8868\u8868\u793a\u56fe 2. \u63d0\u4f9b\u793a\u4f8b\u7528\u6cd5 3. \u4fdd\u6301\u4ee3\u7801\u7b80\u6d01", "timestamp": 1778060142.302984}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778069219.9049263, "request_id": "61a794f2"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778069329.5770438, "request_id": "b8c8be05"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778070190.7931662, "request_id": "0e47c940"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778070317.805105, "request_id": "35b7301e"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778071440.4282498, "request_id": "36c14182"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778071610.8404903, "request_id": "c44342f9"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778072098.4705827, "request_id": "cc78858a"}

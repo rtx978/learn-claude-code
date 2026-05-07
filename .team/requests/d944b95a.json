@@ -1,0 +1,9 @@
+{
+  "request_id": "d944b95a",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "JavaAgent",
+  "status": "pending",
+  "created_at": 1778069331.353067,
+  "updated_at": 1778069331.353067
+}

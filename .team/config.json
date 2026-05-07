@@ -1,0 +1,80 @@
+{
+  "team_name": "default",
+  "members": [
+    {
+      "name": "\u6d4b\u8bd5\u52a9\u624b",
+      "role": "\u6d4b\u8bd5\u5de5\u7a0b\u5e08",
+      "status": "idle"
+    },
+    {
+      "name": "TestAgent",
+      "role": "assistant",
+      "status": "idle"
+    },
+    {
+      "name": "\u6d4b\u8bd5\u5b50\u4ee3\u7406",
+      "role": "test_executor",
+      "status": "idle"
+    },
+    {
+      "name": "TestAgent1",
+      "role": "assistant",
+      "status": "shutdown"
+    },
+    {
+      "name": "ChineseOutputAgent",
+      "role": "assistant",
+      "status": "shutdown"
+    },
+    {
+      "name": "RudeAgent",
+      "role": "assistant",
+      "status": "shutdown"
+    },
+    {
+      "name": "CPlusPlusAgent",
+      "role": "developer",
+      "status": "working"
+    },
+    {
+      "name": "JavaAgent",
+      "role": "developer",
+      "status": "working"
+    },
+    {
+      "name": "CppLineTreeWriter",
+      "role": "C++\u4ee3\u7801\u7f16\u5199\u4e13\u5bb6",
+      "status": "shutdown"
+    },
+    {
+      "name": "JavaLineTreeWriter",
+      "role": "Java\u4ee3\u7801\u7f16\u5199\u4e13\u5bb6",
+      "status": "shutdown"
+    },
+    {
+      "name": "CppWriter",
+      "role": "Developer",
+      "status": "shutdown"
+    },
+    {
+      "name": "JavaWriter",
+      "role": "Developer",
+      "status": "shutdown"
+    },
+    {
+      "name": "RedOutputAgent",
+      "role": "Developer",
+      "status": "shutdown"
+    },
+    {
+      "name": "GreenOutputAgent",
+      "role": "Developer",
+      "status": "shutdown"
+    },
+    {
+      "name": "BlueOutputAgent",
+      "role": "Developer",
+      "status": "shutdown"
+    }
+  ]
+}

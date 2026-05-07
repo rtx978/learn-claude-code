@@ -1,0 +1,9 @@
+{
+  "request_id": "c9288e65",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "ChineseOutputAgent",
+  "status": "pending",
+  "created_at": 1778070317.8667552,
+  "updated_at": 1778070317.8667552
+}

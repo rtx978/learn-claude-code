@@ -1,0 +1,9 @@
+{
+  "request_id": "ab2cef76",
+  "kind": "shutdown",
+  "from": "lead",
+  "to": "TestAgent1",
+  "status": "pending",
+  "created_at": 1778070317.8466663,
+  "updated_at": 1778070317.8466663
+}

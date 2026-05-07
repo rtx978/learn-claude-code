@@ -1,0 +1,10 @@
+{"type": "message", "from": "TestAgent", "content": "Received your test message. Team functionality validation is in progress.", "timestamp": 1777379994.0141044}
+{"type": "message", "from": "TestAgent1", "content": "Test successful", "timestamp": 1778057195.1672466}
+{"type": "message", "from": "TestAgent1", "content": "Test successful", "timestamp": 1778057199.7251356}
+{"type": "message", "from": "TestAgent1", "content": "\u6211\u7231\u4f60", "timestamp": 1778057239.4123125}
+{"type": "message", "from": "TestAgent1", "content": "Test successful", "timestamp": 1778057290.761678}
+{"type": "message", "from": "TestAgent1", "content": "Test successful", "timestamp": 1778057316.6639307}
+{"type": "message", "from": "ChineseOutputAgent", "content": "Ready", "timestamp": 1778057388.0609808}
+{"type": "message", "from": "ChineseOutputAgent", "content": "\u6211\u7231\u4f60", "timestamp": 1778057391.623369}
+{"type": "message", "from": "ChineseOutputAgent", "content": "Completed", "timestamp": 1778057393.7592385}
+{"type": "message", "from": "RudeAgent", "content": "\u4f60\u4e2a\u8d31\u72d7\nReady", "timestamp": 1778058271.504716}

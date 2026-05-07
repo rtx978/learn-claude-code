@@ -1,0 +1,7 @@
+{"type": "message", "from": "lead", "content": "\u8bf7\u751f\u6210\u4e00\u4e2a\u4f7f\u7528PriorityQueue\u5b9e\u73b0\u7684Dijkstra\u6700\u77ed\u8def\u5f84\u7b97\u6cd5\u6a21\u677f\uff0c\u8981\u6c42\uff1a1. \u4f7f\u7528\u90bb\u63a5\u8868\u8868\u793a\u56fe 2. \u63d0\u4f9b\u793a\u4f8b\u7528\u6cd5 3. \u4fdd\u6301\u4ee3\u7801\u7b80\u6d01", "timestamp": 1778060144.0792215}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778069221.9617503, "request_id": "d407a308"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778069331.353067, "request_id": "d944b95a"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778070190.8228202, "request_id": "fcf6243f"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778070317.8262753, "request_id": "d9ac3869"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778071440.4496853, "request_id": "9f665f22"}
+{"type": "shutdown_request", "from": "lead", "content": "Please shut down gracefully.", "timestamp": 1778071610.866306, "request_id": "dbca457a"}

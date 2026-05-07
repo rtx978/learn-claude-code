@@ -1,0 +1,10 @@
+{
+  "request_id": "f0c57f02",
+  "kind": "plan_approval",
+  "from": "\u6d4b\u8bd5\u5b50\u4ee3\u7406",
+  "to": "lead",
+  "status": "pending",
+  "plan": "1. \u5206\u914d\u6d4b\u8bd5\u4efb\u52a1\u7ed9\u5404\u6210\u5458\uff1b2. \u6267\u884c\u5355\u5143\u6d4b\u8bd5\uff1b3. \u96c6\u6210\u6d4b\u8bd5\uff1b4. \u62a5\u544a\u7ed3\u679c\u3002",
+  "created_at": 1777901311.232585,
+  "updated_at": 1777901311.232585
+}
